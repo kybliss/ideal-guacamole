@@ -1,0 +1,1 @@
+All code was written by me, though I used our class respoitory and W3Schools as a reference.
